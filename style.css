@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    background-color:darkblue;
+}
+.eskere{
+    border-radius: 100%;
+}
+a{
+    text-decoration: none;
+    color: #ff0060;
+}
+.inform{
+    text-align: center;
+    font-size: 30px;
+    border: 2px solid black;
+}
+.logo{
+    font-size: 30px;
+    text-align: right;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+nav img{
+    border-radius:100%;
+}
+li{
+    font-size:25px;
+}
+ul{
+     list-style: url(/uploads/2021/01/%D0%BD%D0%BE%D1%82%D0%B0_0_1610638133.svg);
+
+}
+nav{
+    background-color: chocolate;
+    border-radius: 10px;
+}
+footer{
+    background-color:lightskyblue ;
+    border-radius: 10px;
+}
+.zxcv{
+    font-size: 20px;
+}
+footer img{
+    border-radius: 100%;
+}
+.colin{
+  text-align: center;
+  font-family: cursive;  
+}
+.popa{
+    text-align: center;
+}
