@@ -49,50 +49,55 @@ p a{
 p img{
     margin-right: 10px;
 }
-.google-login-btn {
+.google{
 display: inline-block;
 background: #fff;
 border: 1px solid #ccc;
 padding: 10px 15px;
-border-radius: 5px;
+border-radius: 10px;
 text-decoration: none;
 color: #333;
 font-family: Arial, sans-serif;
 font-size: 14px;
-margin-left: 30px;
+margin-left: 200px;
+margin-top: 10px;
 }
 .google-icon {
 display: inline-block;
 vertical-align: middle;
 margin-right: 10px;
 }
-.google{
-display: inline-block;
-background: #fff;
-border: 1px solid #ccc;
-padding: 15px 15px;
-border-radius: 5px;
-text-decoration: none;
-color: #333;
-font-family: Arial, sans-serif;
-font-size: 14px;
-margin-left: 150px;
-}
-.login{
+.phone{
 display: inline-block;
 background: #fff;
 border: 1px solid #ccc;
 padding: 10px 15px;
-border-radius: 5px;
+border-radius: 10px;
 text-decoration: none;
 color: #333;
 font-family: Arial, sans-serif;
 font-size: 14px;
-margin-left: 100px;
+margin-left: 200px;
+margin-top: 10px;
+}
+.facebook{
+display: inline-block;
+background: #fff;
+border: 1px solid #ccc;
+padding: 10px 15px;
+border-radius: 10px;
+text-decoration: none;
+color: #333;
+font-family: Arial, sans-serif;
+font-size: 14px;
+margin-left: 200px;
+margin-top: 10px;
 }
 .dive{
     text-align: center;
     font-family: cursive;
+    background-color: lightblue;
+    border-radius: 50%;
 }
 a{
     text-decoration: none;
@@ -100,4 +105,11 @@ a{
 }
 footer{
     background-color:olive;
+    padding:20px;
+}
+a img{
+    border-radius: 100%;
+}
+footer p{
+    text-align: center;
 }
